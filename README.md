@@ -1,5 +1,11 @@
-# Content: Unsupervised Learning
+# Machine Learning Engineer Nanodegree
+# Unsupervised Learning
 ## Project: Creating Customer Segments
+
+### Project Overview
+
+In this project, I applied unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data. Before completing any analyses, I selected a small subset to sample the data and determine if any product categories highly correlate with one another. Thereafter, this data was then preprocessed by scaling each product category and then identifying (and removing) unwanted outliers. Once I obtained good, clean customer spending data, I applied PCA transformations to the data and implement clustering algorithms to segment the transformed customer data. Finally, I compared the segmentation found with an additional labeling and considered ways this information could assist the wholesale distributor with future service changes.
+
 
 ### Install
 
